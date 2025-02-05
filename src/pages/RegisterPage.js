@@ -30,9 +30,9 @@ const RegisterPage = () => {
   const today = new Date();
   const onSubmit = (values, form) => {
     // EmailJS configuration
-    const serviceID = "service_n14ycqk"; // Your EmailJS service ID
-    const templateID = "template_h1b8omo"; // Your EmailJS template ID
-    const userID = "tyWxyFXwgAyal2HC-"; // Your EmailJS user ID
+    const serviceID = "service_9etrh0f"; // Your EmailJS service ID
+    const templateID = "template_cc749lq"; // Your EmailJS template ID
+    const userID = "RhAZM3fTHPdwG3HWa"; // Your EmailJS user ID
 
     // Mapping form data to EmailJS template variables
     const templateParams = {

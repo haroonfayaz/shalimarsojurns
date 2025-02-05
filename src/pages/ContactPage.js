@@ -16,9 +16,9 @@ import emailjs from "emailjs-com";
 
 const onSubmit = (values, form) => {
   // EmailJS configuration
-  const serviceID = "service_n14ycqk"; // Your service ID
-  const templateID = "template_hmizibo"; // Your EmailJS template ID
-  const userID = "tyWxyFXwgAyal2HC-"; // Replace with your EmailJS user ID
+  const serviceID = "service_9etrh0f"; // Your service ID
+  const templateID = "template_1yq71w4"; // Your EmailJS template ID
+  const userID = "RhAZM3fTHPdwG3HWa"; // Replace with your EmailJS user ID
 
   // Mapping form data to EmailJS template variables
   const templateParams = {
